@@ -1,0 +1,17 @@
+{
+  "name": "backendstudy",
+  "version": "1.0.0",
+  "description": "study backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rohan",
+    "bait",
+    "backend",
+    "javascript"
+  ],
+  "author": "rohan bait",
+  "license": "ISC"
+}
